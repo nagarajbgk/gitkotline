@@ -1,0 +1,4 @@
+<resources>
+	<dimen name="buddy_width">185dp</dimen>
+	<dimen name="buddy_height">280dp</dimen>
+</resources>
